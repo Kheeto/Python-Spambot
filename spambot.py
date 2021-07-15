@@ -28,6 +28,7 @@ def spam():
  |_____/|_| /_/    \_\_|  |_| |____/ \____/  |_|   
                                                    
 By Kheeto#9999 on Discord
+This is an open source Spam-Bot also avalaible on Git-Hub.
     """)
     print("-----------------------------------------")
     print("Successful spammed "+str(lines)+" lines.")
