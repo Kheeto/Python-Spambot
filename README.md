@@ -1,5 +1,6 @@
 # Python-Spambot
-simple spambot in a python file, totally safe and useful to spam lol
+Under MIT License
+### Simple spambot in a python file, totally safe and useful to spam lol
 
 # How to use
 
